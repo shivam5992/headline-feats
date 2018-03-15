@@ -1,0 +1,12 @@
+EmotionalTone,Fills,Storyline
+EmotionalTone,Sadness,"Your text conveys a strong sadness emotional tone, the likelihood of writer being percieved by the audience as sad. People like to share more content which has strong emotions."
+EmotionalTone,Joy,"The text conveys a strong joyful feeling. The likelihood of writer being percieved by the audience as joyful, It is a good indicator for high sharability and reach, as people like to share more content which has strong emotions."
+EmotionalTone,Fear,"The text conveys a strong fear feeling. It is the likelihood of writer being percieved by the audience as fearful, It is a good indicator for high sharability and reach, as people like to share more content which has strong emotions."
+EmotionalTone,Disgust,"Your content conveys disgust as the primarily tone feeling, popular websites intentionally uses tone in the text in order to gauze more interests from reader. "
+EmotionalTone,Anger,"The text conveys a strong anger feeling. The likelihood of writer being percieved by the audience as disgust, Its a good indicator for high sharability and reach, as people like to share more content which has strong emotions."
+EmotionalTone,None,"The content lacks a strong emotional sense, due to lack of emotional tone, the emotional content marketing value is less, try to add keyphrases which are associated with sentiment."
+SocialTone,Openness,"Your headline displays “Openness” as the primary Social Tone. Lesser values ( < 0.50), means blunt and straightforward approach. Higher values ( > 0.75) means curious and open to change."
+SocialTone,Conscientiousness,"Your headline displays “Conscientiousness” as the primary Social Tone. Lesser values ( < 0.50), means spontaneous approach. Higher values ( > 0.75) means confident approach."
+SocialTone,Extraversion,"Your headline displays “Extraversion” as the primary Social Tone. Lesser values ( < 0.50), means introvert nature. Higher values ( > 0.75) means outgoing approach."
+SocialTone,Agreeableness,"Your headline displays “Agreeableness” as the primary Social Tone. Lesser values ( < 0.50), means uncaring approach. Higher values ( > 0.75) means caring or sympathatic approach."
+SocialTone,Emotional Range,"Your headline displays “Sentsitive Emotion” as the primary Social Tone. Lesser values ( < 0.50), means calm and relaxed approach. Higher values ( > 0.75) means concerned or frustrated approach."
